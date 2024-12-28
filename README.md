@@ -58,7 +58,7 @@ Try running the notebook interactively to:
 
 ## 📞 Contact
 
-For questions or suggestions, feel free to open an issue or reach out to [email@example.com].
+For questions or suggestions, feel free to open an issue or reach out to [sachinveyron@gmail.com].
 
 ---
 
